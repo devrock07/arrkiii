@@ -1,4 +1,10 @@
 # Arrkii Discord Bot
+> [!WARNING]
+> **This project has been archived.**
+>
+> Active development, improvements, bug fixes, and feature updates have been discontinued.
+>
+> The project will remain publicly available, and you are **free to use, fork, and modify it** according to the project's license. However, no further updates or official support are planned.
 
 A feature-rich, all-in-one Discord bot with music, moderation, anti-nuke, automation, and much more! Built with discord.js v14, MongoDB for data persistence, and hybrid sharding for scalability.
 
